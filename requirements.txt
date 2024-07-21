@@ -1,0 +1,5 @@
+sentence_transformers
+transformers
+Flask
+pandas
+torch
